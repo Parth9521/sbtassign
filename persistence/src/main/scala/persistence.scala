@@ -1,5 +1,5 @@
 object hellor {
   def main(args: Array[String]): Unit = {
-    println("Hii, This is my root module")
+    println("Hii, This is my persistence module")
   }
 }
